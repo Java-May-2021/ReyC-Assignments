@@ -1,0 +1,32 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	/* outline: 1px dotted blue; */
+}
+
+.container {
+	padding: 250px 0;
+}
+
+.row {
+	justify-content: center;
+}
+
+form, .row#result {
+	border: 1px solid black;
+	padding: 20px;
+}
+
+input[type="submit"] {
+	margin-top: 10px;	
+}
+
+div#submit {
+	text-align: right;
+}
+
+a {
+	display: block;
+	width: 10px;
+	margin: 0px auto;	
+}
