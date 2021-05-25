@@ -1,0 +1,41 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+form {
+	text-align: center;
+	border: 1px solid black;
+	padding: 10px 5px;
+}
+
+h2 {
+	padding: 20px 0px;
+}
+
+span {
+	display: inline-block;
+	width: 75px;
+	border: 1px solid black;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+#activity {
+	border: 1px solid black;
+	padding: 15px;
+}
+
+#prison {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 850px;
+	text-align: center;
+}
